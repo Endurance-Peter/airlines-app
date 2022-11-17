@@ -1,0 +1,17 @@
+C:\Users\endurance.peter\Desktop\airlines-app\FormulaAirline.TicketProcessing\bin\Debug\net6.0\FormulaAirline.TicketProcessing.exe
+C:\Users\endurance.peter\Desktop\airlines-app\FormulaAirline.TicketProcessing\bin\Debug\net6.0\FormulaAirline.TicketProcessing.deps.json
+C:\Users\endurance.peter\Desktop\airlines-app\FormulaAirline.TicketProcessing\bin\Debug\net6.0\FormulaAirline.TicketProcessing.runtimeconfig.json
+C:\Users\endurance.peter\Desktop\airlines-app\FormulaAirline.TicketProcessing\bin\Debug\net6.0\FormulaAirline.TicketProcessing.dll
+C:\Users\endurance.peter\Desktop\airlines-app\FormulaAirline.TicketProcessing\bin\Debug\net6.0\FormulaAirline.TicketProcessing.pdb
+C:\Users\endurance.peter\Desktop\airlines-app\FormulaAirline.TicketProcessing\obj\Debug\net6.0\FormulaAirline.TicketProcessing.csproj.AssemblyReference.cache
+C:\Users\endurance.peter\Desktop\airlines-app\FormulaAirline.TicketProcessing\obj\Debug\net6.0\FormulaAirline.TicketProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\endurance.peter\Desktop\airlines-app\FormulaAirline.TicketProcessing\obj\Debug\net6.0\FormulaAirline.TicketProcessing.AssemblyInfoInputs.cache
+C:\Users\endurance.peter\Desktop\airlines-app\FormulaAirline.TicketProcessing\obj\Debug\net6.0\FormulaAirline.TicketProcessing.AssemblyInfo.cs
+C:\Users\endurance.peter\Desktop\airlines-app\FormulaAirline.TicketProcessing\obj\Debug\net6.0\FormulaAirline.TicketProcessing.csproj.CoreCompileInputs.cache
+C:\Users\endurance.peter\Desktop\airlines-app\FormulaAirline.TicketProcessing\obj\Debug\net6.0\FormulaAirline.TicketProcessing.dll
+C:\Users\endurance.peter\Desktop\airlines-app\FormulaAirline.TicketProcessing\obj\Debug\net6.0\refint\FormulaAirline.TicketProcessing.dll
+C:\Users\endurance.peter\Desktop\airlines-app\FormulaAirline.TicketProcessing\obj\Debug\net6.0\FormulaAirline.TicketProcessing.pdb
+C:\Users\endurance.peter\Desktop\airlines-app\FormulaAirline.TicketProcessing\obj\Debug\net6.0\FormulaAirline.TicketProcessing.genruntimeconfig.cache
+C:\Users\endurance.peter\Desktop\airlines-app\FormulaAirline.TicketProcessing\obj\Debug\net6.0\ref\FormulaAirline.TicketProcessing.dll
+C:\Users\endurance.peter\Desktop\airlines-app\FormulaAirline.TicketProcessing\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\endurance.peter\Desktop\airlines-app\FormulaAirline.TicketProcessing\obj\Debug\net6.0\FormulaAirline.TicketProcessing.csproj.CopyComplete
